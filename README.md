@@ -25,5 +25,6 @@
     - [UC-RIDE-02](docs/use-cases/uc-ride-02.md)
     - [UC-RIDE-03](docs/use-cases/uc-ride-03.md)
     - [UC-RIDE-04](docs/use-cases/uc-ride-04.md)
+    - [UC-RIDE-05](docs/use-cases/uc-ride-05.md)
 11. [Матрица трассировки требований](docs/traceability.md)
 12. [Журнал изменений требований](CHANGELOG.md)
